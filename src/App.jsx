@@ -16,8 +16,6 @@ export default function App() {
       <Route path="/about" element={<AboutUs />} />
 
       </Routes>
-    
-        
      </Router>
      
     </div>
